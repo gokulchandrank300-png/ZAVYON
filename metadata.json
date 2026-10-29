@@ -1,0 +1,6 @@
+{
+  "name": "ZAVYON — Curated Luxury Commerce",
+  "description": "The Art of Discovery. Curated multi-category luxury shopping across Home Decor, Fashion Accessories, Garments, and unexpected finds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
